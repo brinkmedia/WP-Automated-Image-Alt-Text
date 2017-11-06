@@ -1,0 +1,13 @@
+{
+    "name": "chathura/tag-generator",
+    "require": {
+        "google/cloud": "^0.40.0",
+        "google/cloud-vision": "^0.5.0"
+    },
+    "authors": [
+        {
+            "name": "Chathura Bamunusinghe",
+            "email": "chathura86@gmail.com"
+        }
+    ]
+}
